@@ -1,0 +1,79 @@
+.u-section-3{
+  background-image: none;
+  background: -webkit-radial-gradient(center center, circle, #000000, #000000);
+  /*Opcion 1*/
+  /* background: rgba(230, 230, 230, 1); */
+  /* background: linear-gradient(180deg, #1d1d1d, black); */
+  /* background: -webkit-radial-gradient(center center, circle, #000000, #1d1d1d); */
+  /*Opcion 2*/
+  /* background: linear-gradient(180deg, rgba(2,2,2,1), rgba(40, 0, 0, 1)); */
+}
+
+.u-section-2,
+.u-section-4,
+.u-section-12,
+.u-section-14{
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./images/fondo_madera2.png');
+}
+
+.u-section-5,
+.u-section-6,
+.u-section-7,
+.u-section-8,
+.u-section-9,
+.u-section-10,
+.u-section-11,
+.u-section-13,
+.u-section-15{
+  background-image: url('./images/fondo_oscuro.jpg');
+}
+
+.u-section-5 .u-image-1{
+  min-height: 540px;
+  border-radius: 5%;
+  background-image: url("images/sucursales/fb1.jpg");
+  background-size: 100% 100%;
+}
+.u-section-6 .u-image-1{
+  min-height: 540px;
+  border-radius: 5%;
+  background-image: url("images/sucursales/fb2.jpg");
+  background-size: 100% 100%;
+}
+.u-section-7 .u-image-1{
+  min-height: 540px;
+  border-radius: 5%;
+  background-image: url("images/sucursales/fb3.jpg");
+  background-size: 100% 100%;
+}
+
+.u-section-8 .u-image-1{
+  min-height: 540px;
+  border-radius: 5%;
+  background-image: url("images/sucursales/fb4.jpg");
+  background-size: 100% 100%;
+}
+.u-section-9 .u-image-1{
+  min-height: 540px;
+  background-image: url("images/sucursales/fb5.jpg");
+  border-radius: 5%;
+  background-size: 100% 100%;
+}
+
+.u-section-10 .u-image-1{
+  min-height: 540px;
+  background-image: url("images/sucursales/fb6.jpg");
+  border-radius: 5%;
+  background-size: 100% 100%;
+}
+
+.u-section-11 .u-image-1{
+  min-height: 540px;  
+  background-image: url("images/sucursales/fb7.jpg");
+  border-radius: 5%;
+  background-size: 100% 100%;
+}
+
+.u-section-15 .u-image-1{
+  border-radius: 5%;
+}
